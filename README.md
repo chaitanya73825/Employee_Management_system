@@ -1,7 +1,7 @@
 
   # Futuristic Employee Management UI
 
-  This is a code bundle for Futuristic Employee Management UI. The original project is available at https://www.figma.com/design/lYokssCuJ2TArotyCuyYjJ/Futuristic-Employee-Management-UI.
+  This is a code bundle for the Futuristic Employee Management UI project.
 
   ## Running the code
 
